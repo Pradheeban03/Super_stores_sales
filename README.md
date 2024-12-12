@@ -25,7 +25,7 @@ Annual Superstore sales report for 2019 and 2020 . So that, to analyze the repor
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive</a> and dynamic.
 
--<a href="https://github.com/Pradheeban03/Super_stores_sales/blob/main/super%20store%20sale.pbix" Dashboard File Here</a>
+-<a href="https://github.com/Pradheeban03/Super_stores_sales/blob/main/super%20store%20sale.pbix"> Dashboard File Here</a>
 
 
 ## **Dashboard**
