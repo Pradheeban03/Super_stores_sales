@@ -1,8 +1,8 @@
-#  (Interactive Dashboard creation using Power BI)
+# Superstore Analytical Dashboard (Interactive Dashboard creation using Power BI)
 
 ## **Project Objective**
 
-Annual Pizza sales report for 2015. So that, to analyze the report and understanding the revenue and profit sales margin to improve sales.
+Annual Superstore sales report for 2019 and 2020 . So that, to analyze the report and understanding the revenue and profit sales margin to improve sales by Years.
 
 ## **Dataset used**
 -Pizza Sales Data</a>
