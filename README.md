@@ -5,7 +5,7 @@
 Annual Superstore sales report for 2019 and 2020 . So that, to analyze the report and understanding the revenue and profit sales margin to improve sales by Years.
 
 ## **Dataset used**
--<a href="">Pizza Sales Data</a>
+-<a href="https://github.com/Pradheeban03/Super_stores_sales/blob/main/Sample%20-%20Superstore.xls">Pizza Sales Data</a>
 
 ## **Questions (KPIs)**
 
@@ -29,6 +29,8 @@ Annual Superstore sales report for 2019 and 2020 . So that, to analyze the repor
 
 
 ## **Dashboard**
+
+<img width="600" alt="Screenshot 2024-12-13 004028" src="https://github.com/user-attachments/assets/da2329d2-ff9c-41f4-a70a-0ae8f7e3c109" />
 
 
 ## **Project Insight**
