@@ -1,4 +1,4 @@
-##**Superstore-Sales-Report-Data-Analysis (Interactive Dashboard Creation using Power BI)**
+#Superstore-Sales-Report-Data-Analysis (Interactive Dashboard Creation using Power BI)
 
 
 ##**Project Objective**
