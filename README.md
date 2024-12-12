@@ -43,7 +43,7 @@ Annual Superstore sales report for 2019 and 2020 . So that, to analyze the repor
 
 -Sales Trends Over Time: The Sales vs Previous Year graph shows consistent growth with recent spikes, particularly in the latter half of 2023, signifying a strong end to the year.
 
-##**Profitability by Product:**
+## **Profitability by Product**
 
 -Tables have the largest loss (-$17.75K), suggesting a need for review.
 -Copiers are the top profit contributors ($56.09K), followed by other technology products like Phones.
