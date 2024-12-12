@@ -1,68 +1,60 @@
-#Superstore-Sales-Report-Data-Analysis (Interactive Dashboard Creation using Power BI)
+# Pizza-Sales-Report-Data-Analysis (Interactive Dashboard creation using Power BI)
+
+## **Project Objective**
+
+Annual Pizza sales report for 2015. So that, to analyze the report and understanding the revenue and profit sales margin to improve sales.
+
+## **Dataset used**
+-Pizza Sales Data</a>
+
+## **Questions (KPIs)**
+
+- Total Revenue : The Sum of Total price of all pizza orders.
+- Average Order Value: The average amount spent per order ,calculated by dividing the total revenue by the total number of orders.
+- Total pizzas Sold:The sum of the quantities of all pizzas sold.
+- Total Orders : The total number of orders placed.
+- Average  pizza per Order: The average number of pizzas sold per order ,calculated by dividing the total number of pizzas by the total number of orders.
+- Daily and Monthly trends for total orders of the pizza sales.
+- Total Pizzas sold by pizza category.
+- Top and Bottem 5 Best Sellers by Revenue,Total Quantity and Total orders.
 
 
-##**Project Objective**
 
-Annual sales report for 2015 to analyze performance metrics, revenue, and profit margins to identify areas for improvement and guide strategic decisions.
+## **Process**
 
-##**Dataset Used**
-Superstore Sales Data</a>
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive</a> and dynamic.
 
-##**Questions (KPIs)**
-
-Total Revenue: The sum of total sales across all product categories.
-Average Order Value: The average amount spent per order, calculated by dividing total revenue by the total number of orders.
-Total Products Sold: The total quantity of products sold across all categories.
-Total Orders: The total number of orders placed.
-Average Products per Order: The average number of products sold per order, calculated by dividing the total quantity of products by the total number of orders.
-Daily and Monthly Trends: Analysis of daily and monthly trends in sales and order volume.
-Sales by Product Category and Sub-Category: The breakdown of total revenue and quantity by product category and sub-category.
-Top and Bottom Performers: Identifying the top and bottom 5 products by revenue, total quantity sold, and total orders.
+- Dashboard File Here</a>
 
 
-##**Process**
-Verified data for missing values and anomalies, addressing inconsistencies or errors.
-
-Ensured data consistency and accuracy by checking data types, formats, and value ranges.
-
-Created pivot tables and visualizations aligned with the identified KPIs.
-
-Combined all pivot tables into a single interactive dashboard and added slicers for dynamic filtering and analysis.
-
->Dashboard File Here</a>
-
-##**Dashboard**
+## **Dashboard**
 
 
-##**Project Insights**
-Top Revenue Generator: Technology products contribute the highest revenue, driven by laptops and mobile devices.
+## **Project Insight**
 
-Highest Quantity Sold: Office supplies, particularly binders and pens, lead in total quantity sold and total orders.
-
-Lowest Revenue and Sales: Furniture subcategories like tables and bookcases generate the least revenue and have lower sales volumes.
-
-Top Revenue Subcategories: Laptops ($90K) and Phones ($85K) are the highest revenue contributors.
-
-Best-Selling Products by Quantity: Notebooks and paper sold approximately 4K units each.
-
-Bottom Quantity and Revenue: Products like bookcases and art supplies struggle with sales and revenue generation.
-
-Average Order Value: The average order value is $120.45, with customers purchasing an average of 3.8 products per order, suggesting potential for bundle promotions or upselling strategies.
-
-
-Final Conclusion
-
-To improve sales and profitability:
-
-Promote High-Margin Products: Focus marketing efforts on high-margin categories like technology and furniture.
-Bundle Deals: Offer attractive bundle deals for low-performing products like bookcases and art supplies to increase their sales.
-Dynamic Pricing: Implement tiered pricing strategies based on customer segments or purchase quantities.
-Highlight Discounts: Showcase discounts prominently to drive sales for underperforming subcategories.
-Personalized Recommendations: Use data-driven insights to recommend complementary products during checkout (e.g., "Add a monitor stand to your laptop purchase for $15!").
-Would you like further customizations or additional insights for the Superstore Sales Analysis?
+- Top Revenue Generator: The Thai Chicken Pizza contributes the highest revenue among all pizzas.
+- Highest Quantity Sold: The Classic Deluxe Pizza leads in total quantity sold and total orders.
+- Lowest Revenue and Sales: The Brie Carra Pizza is the worst-performing pizza in revenue, quantity, and orders.
+- Top Revenue Pizzas: The Spicy Italian Pizza (35K) and Italian Pizza (33K) are the highest revenue contributors.
+- Best-Selling Pizzas by Quantity: The Sicilian Pizza and Spicy Italian Pizza sold approximately 1.9K units each.
+- Bottom Quantity and Revenue: The Brie Carra Pizza and Calabrese Pizza struggle with sales and revenue generation.
+- Average Order Value: The average order value is 22.92, with customers ordering 1.32 pizzas per order, indicating potential 
+  for increasing order sizes.
 
 
 
 
 
+
+
+
+
+## **Final Conclusion:**
+
+To improve the sales, Offer tiered prices for combos depending on the pizzas selected (e.g., premium options like Thai Chicken or Spicy Italian may have a slightly higher price point).
+Highlight Discounts: Show the discount prominently for adding low-performing pizzas to encourage trials.
+Dynamic Recommendations: Use data to recommend low-selling pizzas during the selection process (e.g., “Add a Brie Carra Pizza for just $5!”).    modify the above datails for super store sales analysis
 
