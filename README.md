@@ -64,7 +64,11 @@ Annual Superstore sales report for 2019 and 2020 . So that, to analyze the repor
 
 ## **Final Conclusion:**
 
-To improve the sales, Offer tiered prices for combos depending on the pizzas selected (e.g., premium options like Thai Chicken or Spicy Italian may have a slightly higher price point).
-Highlight Discounts: Show the discount prominently for adding low-performing pizzas to encourage trials.
-Dynamic Recommendations: Use data to recommend low-selling pizzas during the selection process (e.g., “Add a Brie Carra Pizza for just $5!”).    modify the above datails for super store sales analysis
+To improve the sales, Focus on High-Profit Products and Segments:
+
+Insight: Technology products, particularly Copiers and Phones, contribute significantly to profits. The Corporate segment accounts for the largest share of sales (50.32%).
+Action: Increase marketing and promotional efforts for high-profit products and target the Corporate segment with tailored offers and bulk discounts. Develop bundled packages or cross-selling strategies to encourage higher-value purchases.
+Address Underperforming Product Categories:
+Insight: Tables show significant losses (-$17.75K) despite their inclusion in the product portfolio.
+Action: Investigate the reasons behind low performance—such as pricing, quality issues, or low demand—and implement corrective actions. Consider renegotiating supplier costs, revising pricing strategies, or discontinuing low-demand variants while focusing on more profitable product lines.
 
